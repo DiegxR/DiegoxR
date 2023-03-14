@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **juandiegorojasarredondo@gmail.com**
 
-- ⚡**I love learning and sharing my knowledge, and now I feel like programming caught my attention :3**
+- ⚡**I love learning and sharing my knowledge, and the field of programming has completely captured my attention.**
 
 
 <h3 align="left">Languages and Tools:</h3>
