@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Diego</h1> <p align="left">
+<h1 align="center">Hi, I'm Diego</h1> 
+<h2>Connect me</h2>
+<p align="left">
 <a href="https://www.linkedin.com/in/diego-rojas-266963255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-rojas" height="30" width="40" /></a>
 </p>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
