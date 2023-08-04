@@ -5,7 +5,7 @@
 </p>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Python, NodeJs and Express**
+- 🌱 I’m currently learning **Nest js, Aws and more**
 
 - 💬 Ask me about **React, Javascript or dataBases**
 
