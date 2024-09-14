@@ -5,9 +5,9 @@
 </p>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Nest js, Aws and more**
+- 🌱 I’m currently learning **Python, Aws and more**
 
-- 💬 Ask me about **React, Javascript or dataBases**
+- 💬 Ask me about **React, Javascript, Next** or DataBase
 
 - 📫 How to reach me **juandiegorojasarredondo@gmail.com**
 
