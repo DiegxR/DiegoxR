@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Aws and more**
 
-- 💬 Ask me about **React, Javascript, Next** or DataBase
+- 💬 Ask me about **React, Javascript, Next**, Nest, SpringBoot or DataBase
 
 - 📫 How to reach me **juandiegorojasarredondo@gmail.com**
 
